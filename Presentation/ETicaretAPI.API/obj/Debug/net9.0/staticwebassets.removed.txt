@@ -1,0 +1,3 @@
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\wwwroot\resource\product-images\224016850.jpg
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\wwwroot\resource\product-images\890081821.jpeg
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\wwwroot\resource\product-images\998201706.jpeg

@@ -1,0 +1,3 @@
+wwwroot\resource\product-images\224016850.jpg
+wwwroot\resource\product-images\890081821.jpeg
+wwwroot\resource\product-images\998201706.jpeg

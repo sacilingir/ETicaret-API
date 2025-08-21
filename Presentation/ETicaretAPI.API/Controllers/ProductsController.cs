@@ -1,6 +1,7 @@
 ﻿using ETicaretAPI.Application.Abstractions;
 using ETicaretAPI.Application.Repositories;
 using ETicaretAPI.Application.RequestParameters;
+using ETicaretAPI.Application.Services.IFileService;
 using ETicaretAPI.Application.ViewModels.Products;
 using ETicaretAPI.Domain.Entities;
 using Microsoft.AspNetCore.Http;
@@ -15,24 +16,18 @@ namespace ETicaretAPI.API.Controllers
     {
         private readonly IProductReadRepository _productReadRepository;
         private readonly IProductWriteRepository _productWriteRepository;
-        private readonly IOrderReadRepository _orderReadRepository;
-        private readonly IOrderWriteRepository _orderWriteRepository;
-        private readonly ICustomerReadRepository _customerReadRepository;
-        private readonly ICustomerWriteRepository _customerWriteRepository;
         private readonly IWebHostEnvironment _webHostEnvironment;
+        private readonly IFileService _fileService;
 
-        public ProductsController(IProductReadRepository productReadRepository, IProductWriteRepository productWriteRepository, IOrderWriteRepository orderWriteRepository, IOrderReadRepository orderReadRepository, ICustomerReadRepository customerReadRepository, ICustomerWriteRepository customerWriteRepository, IWebHostEnvironment webHostEnvironment)
+        public ProductsController(IProductReadRepository productReadRepository, IProductWriteRepository productWriteRepository, IWebHostEnvironment webHostEnvironment, IFileService fileService)
         {
             _productReadRepository = productReadRepository;
             _productWriteRepository = productWriteRepository;
-            _orderWriteRepository = orderWriteRepository;
-            _orderReadRepository = orderReadRepository;
-            _customerReadRepository = customerReadRepository;
-            _customerWriteRepository = customerWriteRepository;
             _webHostEnvironment = webHostEnvironment;
+            _fileService = fileService;
         }
         [HttpGet]
-        public async Task<IActionResult> Get([FromQuery]Pagination pagination)
+        public async Task<IActionResult> Get([FromQuery] Pagination pagination)
         {
             var totalCount = _productReadRepository.GetAll(false).Count();
 
@@ -63,7 +58,7 @@ namespace ETicaretAPI.API.Controllers
         public async Task<IActionResult> Post(VM_Create_Product model)
         {
 
-            
+
 
             await _productWriteRepository.AddAsync(new()
             {
@@ -78,7 +73,7 @@ namespace ETicaretAPI.API.Controllers
         [HttpPut]
         public async Task<IActionResult> Put(VM_Update_Product model)
         {
-           Product product = await _productReadRepository.GetByIdAsync(model.Id);
+            Product product = await _productReadRepository.GetByIdAsync(model.Id);
             product.Name = model.Name;
             product.Price = model.Price;
             product.Stock = model.Stock;
@@ -97,31 +92,12 @@ namespace ETicaretAPI.API.Controllers
         [HttpPost("[action]")]
         public async Task<IActionResult> Upload()
         {
-            //wwwroot/resource/product-images
-            string uploadPath = Path.Combine(_webHostEnvironment.WebRootPath, "resource/product-images");
+            
+           await _fileService.Uploadsync("product-images", Request.Form.Files);
 
-            if (!Directory.Exists(uploadPath))
-            {
-                Directory.CreateDirectory(uploadPath);
-            }
 
-            Random r = new();
-            foreach (IFormFile file in Request.Form.Files)
-            {
-                string fullPath = Path.Combine(uploadPath, $"{r.Next()}{Path.GetExtension(file.FileName)}");
-
-                using FileStream fileStream = new(fullPath, 
-                    FileMode.Create, 
-                    FileAccess.Write, 
-                    FileShare.None,
-                    1024*1024,
-                    useAsync:false);
-
-                await file.CopyToAsync(fileStream);
-                await fileStream.FlushAsync(); 
-            }
             return Ok();
         }
-       
+
     }
 }
