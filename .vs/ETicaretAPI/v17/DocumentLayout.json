@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F69E4A5-44DF-4205-B692-1090363E20EF}|Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\infrastructure\\eticaretapi.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F69E4A5-44DF-4205-B692-1090363E20EF}|Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj|solutionrelative:infrastructure\\eticaretapi.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\core\\eticaretapi.application\\services\\ifileservice\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\services\\ifileservice\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DACBADB1-EC6F-4531-A8CF-97B1F44DA1D7}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DACBADB1-EC6F-4531-A8CF-97B1F44DA1D7}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F69E4A5-44DF-4205-B692-1090363E20EF}|Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\infrastructure\\eticaretapi.infrastructure\\operations\\nameoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F69E4A5-44DF-4205-B692-1090363E20EF}|Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj|solutionrelative:infrastructure\\eticaretapi.infrastructure\\operations\\nameoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAQwHIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:11:04.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NameOperation.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\Operations\\NameOperation.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Infrastructure\\Operations\\NameOperation.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\Operations\\NameOperation.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Infrastructure\\Operations\\NameOperation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:07:23.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\Services\\FileService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.Infrastructure\\Services\\FileService.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\Services\\FileService.cs*",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.Infrastructure\\Services\\FileService.cs*",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAYwE8AAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T11:53:08.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IFileService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Services\\IFileService\\IFileService.cs",
-              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Services\\IFileService\\IFileService.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Services\\IFileService\\IFileService.cs",
-              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Services\\IFileService\\IFileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T11:48:42.289Z",
+              "WhenOpened": "2025-08-26T05:40:00.467Z",
               "EditorCaption": ""
             }
           ]
