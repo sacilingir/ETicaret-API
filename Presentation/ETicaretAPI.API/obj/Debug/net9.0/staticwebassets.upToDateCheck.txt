@@ -1,3 +1,4 @@
-wwwroot\resource\product-images\vesikalik.jpg
-wwwroot\resource\product-images\vesikalik-2.jpg
-wwwroot\resource\product-images\vesikalik-3.jpg
+wwwroot\resource\files\seyit_ahmet.jpg
+wwwroot\resource\files\vesikalık.jpeg
+wwwroot\resource\files\vesikalık.jpg
+wwwroot\resource\files\x.png
