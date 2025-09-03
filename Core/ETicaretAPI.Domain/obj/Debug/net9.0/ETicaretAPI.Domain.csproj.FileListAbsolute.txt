@@ -10,3 +10,4 @@ C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Core\ETicaretAPI.Do
 C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net9.0\refint\ETicaretAPI.Domain.dll
 C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net9.0\ETicaretAPI.Domain.pdb
 C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net9.0\ref\ETicaretAPI.Domain.dll
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net9.0\ETicaretAPI.Domain.csproj.AssemblyReference.cache
