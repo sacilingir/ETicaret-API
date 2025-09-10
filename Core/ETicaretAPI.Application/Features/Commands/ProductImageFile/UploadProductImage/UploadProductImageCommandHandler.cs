@@ -1,5 +1,5 @@
-﻿using ETicaretAPI.Application.Repositories;
-using ETicaretAPI.Application.Storage;
+﻿using ETicaretAPI.Application.Abstractions.Storage;
+using ETicaretAPI.Application.Repositories;
 using MediatR;
 using System;
 using System.Collections.Generic;

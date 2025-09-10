@@ -1,4 +1,4 @@
-﻿using ETicaretAPI.Application.Storage;
+﻿using ETicaretAPI.Application.Abstractions.Storage;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;

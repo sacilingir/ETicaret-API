@@ -167,3 +167,7 @@ C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicar
 C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

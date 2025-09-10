@@ -1,4 +1,4 @@
-﻿using ETicaretAPI.Application.Storage.Local;
+﻿using ETicaretAPI.Application.Abstractions.Storage.Local;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using System;
