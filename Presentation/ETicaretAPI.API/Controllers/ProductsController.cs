@@ -58,6 +58,8 @@ namespace ETicaretAPI.API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get([FromQuery] GetAllProductQueryRequest getAllProductQueryRequest)
         {
+            
+            
            GetAllProductQueryResponse response= await _mediator.Send(getAllProductQueryRequest);
             return Ok(response);
             
