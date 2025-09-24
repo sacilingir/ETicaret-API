@@ -183,3 +183,5 @@ C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicar
 C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
 C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
 C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\Serilog.Sinks.Seq.dll
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\ETicaretAPI.SignalR.dll
+C:\Users\PC\Desktop\personal\ETICARETAGUSTOS2025\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net9.0\ETicaretAPI.SignalR.pdb

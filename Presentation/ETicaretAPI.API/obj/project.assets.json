@@ -2572,6 +2572,22 @@
         "runtime": {
           "bin/placeholder/ETicaretAPI.Persistence.dll": {}
         }
+      },
+      "ETicaretAPI.SignalR/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "ETicaretAPI.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ETicaretAPI.SignalR.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ETicaretAPI.SignalR.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -7375,6 +7391,11 @@
       "type": "project",
       "path": "../../Infastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
       "msbuildProject": "../../Infastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj"
+    },
+    "ETicaretAPI.SignalR/1.0.0": {
+      "type": "project",
+      "path": "../../Infrastructure/ETicaretAPI.SignalR/ETicaretAPI.SignalR.csproj",
+      "msbuildProject": "../../Infrastructure/ETicaretAPI.SignalR/ETicaretAPI.SignalR.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7382,6 +7403,7 @@
       "ETicaretAPI.Application >= 1.0.0",
       "ETicaretAPI.Infrastructure >= 1.0.0",
       "ETicaretAPI.Persistence >= 1.0.0",
+      "ETicaretAPI.SignalR >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.8",
       "Microsoft.AspNetCore.OpenApi >= 9.0.6",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.8",
@@ -7432,6 +7454,9 @@
             },
             "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj"
+            },
+            "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj"
             }
           }
         }

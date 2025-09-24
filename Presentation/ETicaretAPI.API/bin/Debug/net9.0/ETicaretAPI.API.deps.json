@@ -11,6 +11,7 @@
           "ETicaretAPI.Application": "1.0.0",
           "ETicaretAPI.Infrastructure": "1.0.0",
           "ETicaretAPI.Persistence": "1.0.0",
+          "ETicaretAPI.SignalR": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.8",
           "Microsoft.AspNetCore.OpenApi": "9.0.6",
           "Microsoft.EntityFrameworkCore.Design": "9.0.8",
@@ -1490,6 +1491,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "ETicaretAPI.SignalR/1.0.0": {
+        "dependencies": {
+          "ETicaretAPI.Application": "1.0.0"
+        },
+        "runtime": {
+          "ETicaretAPI.SignalR.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -2460,6 +2472,11 @@
       "sha512": ""
     },
     "ETicaretAPI.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ETicaretAPI.SignalR/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
