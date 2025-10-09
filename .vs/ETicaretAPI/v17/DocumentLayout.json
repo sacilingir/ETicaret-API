@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\product\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\product\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DACBADB1-EC6F-4531-A8CF-97B1F44DA1D7}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACBADB1-EC6F-4531-A8CF-97B1F44DA1D7}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\infrastructure\\eticaretapi.signalr\\hubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|solutionrelative:infrastructure\\eticaretapi.signalr\\hubregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\core\\eticaretapi.application\\features\\queries\\product\\getallproduct\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\queries\\product\\getallproduct\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DACBADB1-EC6F-4531-A8CF-97B1F44DA1D7}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DACBADB1-EC6F-4531-A8CF-97B1F44DA1D7}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DACBADB1-EC6F-4531-A8CF-97B1F44DA1D7}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACBADB1-EC6F-4531-A8CF-97B1F44DA1D7}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\infrastructure\\eticaretapi.signalr\\hubservices\\producthubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|solutionrelative:infrastructure\\eticaretapi.signalr\\hubservices\\producthubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\productimagefile\\changeshowcaseimage\\changeshowcaseimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\productimagefile\\changeshowcaseimage\\changeshowcaseimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\infrastructure\\eticaretapi.signalr\\receivefunctionnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|solutionrelative:infrastructure\\eticaretapi.signalr\\receivefunctionnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\productimagefile\\changeshowcaseimage\\changeshowcaseimagecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\productimagefile\\changeshowcaseimage\\changeshowcaseimagecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\infrastructure\\eticaretapi.signalr\\hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|solutionrelative:infrastructure\\eticaretapi.signalr\\hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\infrastructure\\eticaretapi.signalr\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C3E3CA-57AA-4B05-9A7F-B6B2812EB9A7}|Infrastructure\\ETicaretAPI.SignalR\\ETicaretAPI.SignalR.csproj|solutionrelative:infrastructure\\eticaretapi.signalr\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66A081CE-1AFD-4D64-8595-E26D9CC8B74B}|Infastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\infastructure\\eticaretapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66A081CE-1AFD-4D64-8595-E26D9CC8B74B}|Infastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj|solutionrelative:infastructure\\eticaretapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\pc\\desktop\\personal\\eticaretagustos2025\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\productimagefile\\changeshowcaseimage\\changeshowcaseimagecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9056B5-C4C2-414D-A740-DB4864FAA0DF}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\productimagefile\\changeshowcaseimage\\changeshowcaseimagecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,106 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductHubService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\HubServices\\ProductHubService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.SignalR\\HubServices\\ProductHubService.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\HubServices\\ProductHubService.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.SignalR\\HubServices\\ProductHubService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAWwBQAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T07:08:55.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HubRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\HubRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.SignalR\\HubRegistration.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\HubRegistration.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.SignalR\\HubRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GetAllProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T07:13:45.275Z",
+              "WhenOpened": "2025-10-09T13:49:34.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProductHub.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\Hubs\\ProductHub.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.SignalR\\Hubs\\ProductHub.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\Hubs\\ProductHub.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.SignalR\\Hubs\\ProductHub.cs",
+              "Title": "ChangeShowcaseImageCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandResponse.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:51:23.12Z",
+              "WhenOpened": "2025-10-09T13:21:23.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ReceiveFunctionNames.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\ReceiveFunctionNames.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.SignalR\\ReceiveFunctionNames.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\ReceiveFunctionNames.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.SignalR\\ReceiveFunctionNames.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAYAAAAAAAAAA==",
+              "Title": "ChangeShowcaseImageCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:21:16.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ETicaretAPI.SignalR\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infrastructure\\ETicaretAPI.SignalR\\ServiceRegistration.cs",
-              "RelativeToolTip": "Infrastructure\\ETicaretAPI.SignalR\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:57:26.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateProductCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
-              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:41:08.182Z",
+              "WhenOpened": "2025-10-09T13:21:22.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
-              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-24T09:39:29.417Z",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:44:51.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Infastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "RelativeToolTip": "Infastructure\\ETicaretAPI.Persistence\\ServiceRegistration.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:57:39.379Z",
+              "WhenOpened": "2025-10-09T14:03:07.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeShowcaseImageCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\personal\\ETICARETAGUSTOS2025\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\ProductImageFile\\ChangeShowcaseImage\\ChangeShowcaseImageCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:21:23.769Z",
               "EditorCaption": ""
             }
           ]
